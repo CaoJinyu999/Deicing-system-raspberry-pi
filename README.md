@@ -9,7 +9,8 @@ Deicing-system-raspberry-pi
   
   This project aims to remove the ice or snow by brine. By using the humidity and temperature sensor to detect the environment. The sprinkler is used to spread saline water and controlled by Raspberry Pi. Another sensor is IR sensor that is used to detect walkers and animals. When it detects people, the sprinkler will turn off.  
   
----
+---  
+## Test
 For the very beginning, our team test the Raspberry Pi by LED, in order the cheak if the chip works properly and how to control the GUIOs.
 
 ```  
