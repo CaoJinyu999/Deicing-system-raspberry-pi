@@ -12,7 +12,7 @@ Deicing-system-raspberry-pi
 ---
 For the very beginning, our team test the Raspberry Pi by LED, in order the cheak if the chip works properly and how to control the GUIOs.
 
-'''  
+```  
 
 #include <wiringPi.h>  
 
@@ -31,11 +31,10 @@ int main (void)
     digitalWrite (0,  LOW) ; delay (500) ;  
     
   }
-  return 0 ;  
-  
+  return 0 ;    
 }  
+```  
 
-'''  
 
 
   
